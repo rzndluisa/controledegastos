@@ -40,7 +40,7 @@ input:focus{
 }
 
 button{
-    background-color: #e6cb32;
+    background-color: #4CAF50;
     color: #ccc;
     cursor: pointer;
     border: none;
@@ -60,7 +60,7 @@ li{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background: #b4b4a0;
+    background: #bdbcac;
     margin: 10px 0;
     padding: 10px 15px;
     border: 1px solid #ddd;
